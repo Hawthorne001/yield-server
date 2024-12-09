@@ -15,7 +15,7 @@
     "@uniswap/sdk-core": "^3.0.1",
     "@uniswap/smart-order-router": "^2.8.0",
     "async-retry": "^1.3.3",
-    "axios": "^0.27.2",
+    "axios": "^0.28.0",
     "bignumber.js": "^9.1.1",
     "csv-writer": "^1.6.0",
     "date-fns": "^2.23.0",
